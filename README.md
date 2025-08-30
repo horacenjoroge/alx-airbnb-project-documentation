@@ -16,4 +16,4 @@ RESTful API Design: HTTP-based interface design following REST architectural con
 Data Modeling: Database schema design using relational (PostgreSQL) or document-based (MongoDB) systems to efficiently structure and relate core entities (Users, Properties, Bookings, Reviews).
 Authentication & Authorization: Security implementation using JWT tokens for identity verification and role-based access control for resource protection.
 Payment Gateway Integration: Third-party payment service integration (Stripe, PayPal) with secure transaction processing and PCI compliance requirements.
-Technical Documentation: Systematic creation of maintainable specifications, API references, and implementation guides that support development workflows and system maintenance.RetryClaude can make mistakes. Please double-check responses.
+Technical Documentation: Systematic creation of maintainable specifications, API references, and implementation guides that support development workflows and system maintenance.
